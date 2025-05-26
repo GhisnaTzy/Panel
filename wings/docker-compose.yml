@@ -7,7 +7,7 @@ services:
     networks:
       - wings0
     ports:
-      - "80:80"
+      - "8080:8080"
       - "2022:2022"
       - "443:443"
     tty: true
